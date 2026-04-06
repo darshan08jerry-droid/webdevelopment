@@ -9,11 +9,16 @@ This is a responsive website built using HTML, CSS, and JavaScript. The main ide
 The goal of this project is to improve my frontend development skills and understand how real-world websites are designed and structured. I also wanted to create something that looks professional and can be used as a portfolio or business website.
 
  Technologies Used
-🔹 Frontend
-HTML5 → Used to create the structure of the website
-CSS3 → Used for styling, layout, and responsiveness
-JavaScript → Used to add interactivity and dynamic behavior
-🔹 CMS / Platform
+ Frontend
+ 
+HTML5 → Used to create the structure of the website.
+
+CSS3 → Used for styling, layout, and responsiveness.
+
+JavaScript → Used to add interactivity and dynamic behavior.
+
+ CMS / Platform
+ 
 WordPress → Explored to understand themes, plugins, and website management.
 
  Features
