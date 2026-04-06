@@ -17,6 +17,7 @@ JavaScript → Used to add interactivity and dynamic behavior
 WordPress → Explored to understand themes, plugins, and website management.
 
  Features
+ 
 Responsive design (works on all devices)
 Clean and modern UI
 Easy navigation between sections
