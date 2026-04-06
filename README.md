@@ -12,7 +12,9 @@ The goal of this project is to improve my frontend development skills and unders
  Frontend
  
 HTML5 → Used to create the structure of the website.
+
 CSS3 → Used for styling, layout, and responsiveness.
+
 JavaScript → Used to add interactivity and dynamic behavior.
 
  CMS / Platform
