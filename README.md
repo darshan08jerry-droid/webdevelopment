@@ -20,6 +20,7 @@ JavaScript → Used to add interactivity and dynamic behavior.
  CMS / Platform
 WordPress → Explored to understand themes, plugins, and website management.
 
+
  Features
  
 Responsive design (works on all devices)
